@@ -12,7 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Error
 
-With `fullTemplateTypeCheck: true` throws:
+With `fullTemplateTypeCheck: true` and `strictTemplates: true` throws:
 
 ```
 ERROR in src/app/app.component.html:2:6 - error TS2339: Property 'length' does not exist on type 'NgIterable<any>'.
